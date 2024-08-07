@@ -1,6 +1,5 @@
 
-# Enhancing Industrial Robotic Efficiency Through Reinforcement Learning: Integrating AI-Enabled
-# Pre-Adjustment Systems For Optimal Speed And Energy Consumption
+# Enhancing Industrial Robotic Efficiency Through Reinforcement Learning: Integrating AI-Enabled Pre-Adjustment Systems For Optimal Speed And Energy Consumption
 
 In industrial automation, robotic arms are crucial in executing drilling, welding, and assembling
 tasks. Despite their advanced capabilities, these robots operate based on pre-designed displacements,
